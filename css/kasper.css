@@ -211,7 +211,7 @@ header .contenar nav .but:hover .ul-manu{
 
 /* ////////////////end nav/////////////// */
 header{
-    background-image: url(../img/background-2.jpg);
+    background-image: url(../img/background.jpg);
     background-size: cover;
     height: 100vh;
     position: relative;
